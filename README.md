@@ -1,2 +1,2 @@
 # Twitter-Sentiment-
-Analyzing the sentiment of twitter tweets for a particular key word. This analysis is based on the tweet only.
+Analyzing the sentiment of tweets for a particular key word. This analysis is based on the tweet text only.
