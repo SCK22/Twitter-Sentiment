@@ -1,8 +1,4 @@
-#Install the dependencies
-#json
-#textblob
-#twitter
-# add the tokens and the path
+
 # Import the necessary methods from "twitter" library
 from twitter import Twitter, OAuth, TwitterHTTPError, TwitterStream
 # Variables that contains the user credentials to access Twitter API 
