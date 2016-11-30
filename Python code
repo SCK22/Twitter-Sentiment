@@ -1,7 +1,10 @@
-
+#Install the dependencies
+#json
+#textblob
+#twitter
+# add the tokens and the path
 # Import the necessary methods from "twitter" library
 from twitter import Twitter, OAuth, TwitterHTTPError, TwitterStream
-#from pattern.en import sentiment
 # Variables that contains the user credentials to access Twitter API 
 ACCESS_TOKEN = 'token'
 ACCESS_SECRET = 'token'
