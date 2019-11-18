@@ -5,7 +5,8 @@ import json
 from textblob import TextBlob
 import sys
 import os
-
+import multiprocessing
+from multiprocessing import Process, Queue, current_process, freeze_support, Pool, SimpleQueue, Manager
 with open("../access_tokens.json", "r") as f:
     access_dict = json.load(f)
     
@@ -16,9 +17,28 @@ CONSUMER_KEY = access_dict["api_key"]
 CONSUMER_SECRET = access_dict["api_secret"]
 oauth = OAuth(ACCESS_TOKEN, ACCESS_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
 
-# keyword = sys.argv[1]
 
-def get_data(keyword,tweet_count):
+def run_multiple_processes(n_procs, func_exec, keyword):
+    """Run multiple processes, as of now ,the admin id is fixed
+     thanks to https://pythonprogramming.net/values-from-multiprocessing-intermediate-python-tutorial/ """
+    print("run_multiple_processes called")
+    q = Queue()
+    processes = []
+    data = []
+    for _ in range(0, n_procs):
+        p = Process(target=func_exec, args=(keyword,))
+        processes.append(p)
+    for p in processes:
+        p.start()
+    for p in processes:
+        ret = q.get() # will block
+        data.append(ret)
+    for p in processes:
+        p.join()
+    return data
+
+
+def get_data(keyword,tweet_count = 1):
     f_name = "get_data"
     print("{} called.".format(f_name))
     twitter_stream = TwitterStream(auth=oauth)
