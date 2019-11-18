@@ -7,3 +7,5 @@ temp/
 access_tokens*
 
 __pycache__/
+
+.vscode/*
