@@ -1,0 +1,7 @@
+#Install the dependencies
+#textblob
+textblob
+#twitter
+twitter
+wordcloud
+plotly

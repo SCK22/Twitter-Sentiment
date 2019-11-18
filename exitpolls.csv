@@ -1,52 +1,246 @@
-text,polarity
-"RT @i_theindian: Two main objectives of the highly exaggerated #ExitPolls are:
+text,created_at,polarity,sentiment
+"RT @DaaruBaazMehta: MUST WATCH
 
-📌The BSE SENSEX will shoot through the roof and the rich wi…",0.013888888888888876
-"RT @AjayKushwaha_: So today's exit polls are clearly showing BJP is getting a full majority &amp; is Winning with a huge margin. 
+AAP @raghav_chadha SLAMS #ExitPolls 
 
-On 23rd PM @…",0.3375
+AAP Lok Sabha candidate, Raghav is confident of Winning the South Del…",2019-05-20 12:43:50,0.5,neutral
+"RT @i_theindian: Yesterday's highly exaggerated #ExitPolls pushed up the BSE Sensex by 1,400 points resulting in a whopping:
+
+📌Rs 40,000 cr…",2019-05-20 12:43:54,-0.5,negative
+RT @JhaSanjay: If the #ExitPolls figures are true then my dog is a nuclear scientist.,2019-05-20 12:43:56,0.35,negative
+"RT @rahul_tverma: I'm not sure why everyone is using Australia #ExitPolls example. 
+
+The country has 151 member house. Conservatives were r…",2019-05-20 12:44:00,-0.25,negative
+"RT @rahul_tverma: Lesson from Australia #ExitPolls 
+
+1. Exit Polls can wrong in CLOSE contest, less likely in LANDSLIDES
+2. Australia has a…",2019-05-20 12:44:02,-0.2222222222222222,negative
+"@firstpost @Dinesh_Unni The reason behind the Modi favored 
+#ExitPolls
+
+Is that Rs 5000 Cr invested in Satta Market… https://t.co/h3Wa6QXN5t",2019-05-20 12:44:06,0.2,negative
+RT @_sufiyana_: I know you will read my name and pounce on me for raising the question but what if #ExitPolls are an elaborate fraud to mit…,2019-05-20 12:44:22,0.5,neutral
+"RT @MuralikrishnaE1: Few suggestions to the Congress party:
+1. Fire the President asap
+2. Hold free &amp; fair election for that post
+3. Kick o…",2019-05-20 12:44:30,0.3,negative
+"RT @ndtv: Andhra Pradesh Chief Minister and TDP chief N Chandrababu Naidu: ""I am 1000 % confident that TDP will win the elections, don't ha…",2019-05-20 12:44:41,0.65,positive
+"RT @ind_vote: Exit Poll 2019
+Lok Sabha Election
+सबसे बड़ा आंकडा
+Total : 542/543 Seats
+NDA – 172 ( BJP – 147 )
+UPA – 236 ( Congress – 170 )…",2019-05-20 12:44:43,0.0,negative
+"RT @DaaruBaazMehta: MUST WATCH
+
+AAP @raghav_chadha SLAMS #ExitPolls 
+
+AAP Lok Sabha candidate, Raghav is confident of Winning the South Del…",2019-05-20 12:45:02,0.5,neutral
+"RT @SirAiyar: The reason behind the Modi favored 
+#ExitPolls
+
+Is that Rs 5000 Cr invested in Satta Market should be manipulated in favor of…",2019-05-20 12:45:12,0.2,negative
+"RT @ind_vote: Exit Poll 2019
+Lok Sabha Election
+सबसे बड़ा आंकडा
+Total : 542/543 Seats
+NDA – 172 ( BJP – 147 )
+UPA – 236 ( Congress – 170 )…",2019-05-20 12:45:20,0.0,negative
+"Look at Abhisar Sharma at 12:50.
+Sharp reasoning. 
+And yes, my dad also talks like his journalist friend's dad does… https://t.co/85sTnXZnbC",2019-05-20 12:45:22,-0.125,negative
+"RT @Advocat27001829: #EXITPolls2019 #ExitPoll2019 #ExitPolls #IndiaTodayAxisPoll
+
+#MenToo is gaining strong momentum in India under leaders…",2019-05-20 12:45:29,0.4333333333333333,negative
+RT @ajitdatta: This moron right here was the opposition's biggest project in the last five years to discredit the Modi government. I for on…,2019-05-20 12:45:37,-0.17142857142857146,negative
+2004 exit polls: When surveys got it horribly wrong https://t.co/GEU4kAEQXo #exitpolls via @oneindia,2019-05-20 12:45:41,-0.5,negative
+"RT @avinav_gahlot1: #RT if you agree.👇👇👇
+
+""Mani Shankar Aiyar is lucky charm for #BJP .""
+😭😭😂😂
+
+#ExitPoll2019
+#JeetegaToModiHi #ApnaModiAaye…",2019-05-20 12:45:47,0.3333333333333333,negative
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:45:53,0.170995670995671,negative
+"RT @ind_vote: Exit Poll 2019
+Lok Sabha Election
+सबसे बड़ा आंकडा
+Total : 542/543 Seats
+NDA – 172 ( BJP – 147 )
+UPA – 236 ( Congress – 170 )…",2019-05-20 12:46:08,0.0,negative
+RT @JhaSanjay: If the #ExitPolls figures are true then my dog is a nuclear scientist.,2019-05-20 12:46:11,0.35,negative
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:46:14,0.170995670995671,negative
+"#ExitPolls are the prediction, lets wait till the result comes and for sure this time #ModiSarkar wont come back,… https://t.co/uzY6w63PgO",2019-05-20 12:46:36,0.5,neutral
+People understand voter is supreme democracy their right rt up to PM all are elected by them so cm pm shd serve the… https://t.co/Lk3O3etVlh,2019-05-20 12:46:39,0.2857142857142857,negative
 "RT @MyFellowIndians: Paid #ExitPolls have been aired.
 CEC in Pocket.
 Verification of VVPATs cancelled. 
-Now replace the #EVMs with the 190,…",0.1
-"RT @iKamranShahid: Remember:-
+Now replace the #EVMs with the 190,…",2019-05-20 12:46:43,0.1,negative
+"Most #exitpolls predict @BJP4Bengal will make significant inroads in West Bengal in #LokSabhaElections2019, if not… https://t.co/XwK8ouSMLM",2019-05-20 12:46:46,0.4375,negative
+"RT @AjayKushwaha_: So today's exit polls are clearly showing BJP is getting a full majority &amp; is Winning with a huge margin. 
 
-■ #ExitPolls of US showed Hillary Clinton winning BUT Donald Trump won.
+On 23rd PM @…",2019-05-20 12:47:07,0.3375,negative
+"RT @DaaruBaazMehta: MUST WATCH
 
-■ #ExitPoll of Australia showed Lab…",0.5
-"RT @RangDeTiranga: Remember:-
+AAP @raghav_chadha SLAMS #ExitPolls 
 
-■ #ExitPolls of US showed Hillary Clinton winning BUT Donald Trump won.
-
-■ #ExitPoll of Australia showed Lab…",0.5
-@NirikshanBilla @BJP4India But there might be more of those in Parliament if #ExitPoll2019 #ExitPolls are right so… https://t.co/XTTQ7Bg3Nx,0.39285714285714285
+AAP Lok Sabha candidate, Raghav is confident of Winning the South Del…",2019-05-20 12:47:17,0.5,neutral
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:47:22,0.170995670995671,negative
+"RT @JantaKaReporter: ABP predicts 267 for NDA, 127 for UPA, 148 for others. Only channel that is not giving majority to BJP-led alliance 
+#…",2019-05-20 12:47:23,0.0,negative
+RT @JhaSanjay: If the #ExitPolls figures are true then my dog is a nuclear scientist.,2019-05-20 12:47:27,0.35,negative
 "RT @SirJadeja: 19th May: Exit Polls are fake
 23rd May: EVMs are hacked
 24th May:Fascist Mudi must rejine 😭
 
-#ExitPoll2019 #ExitPolls",-0.5
-Dhruv right now!! https://t.co/YT2DxTeipR,0.4464285714285714
-"RT @mdbaid: I would request all @INCIndia supporters be calm and cool as our leader Shri @RahulGandhi is.
+#ExitPoll2019 #ExitPolls",2019-05-20 12:47:33,-0.5,negative
+"RT @MuralikrishnaE1: Few suggestions to the Congress party:
+1. Fire the President asap
+2. Hold free &amp; fair election for that post
+3. Kick o…",2019-05-20 12:47:33,0.3,negative
+"""Popularity"" also means ""fact of being popular"" - a result. Not had your morning coffee, have ya? #exitpolls… https://t.co/02CQMmsnZH",2019-05-20 12:47:57,0.6,positive
+RT @Babu_Bhaiyaa: The most unfortunate thing in this election is.. Kejriwal ji ko utani seat bhi nahi mil rahi jitne unhen Campaign mein th…,2019-05-20 12:48:01,0.0,negative
+"RT @aniruddh_dave: We were lucky that we didnt have #ExitPolls during our School results..
+Otherwise our parents would have  started thrash…",2019-05-20 12:48:08,0.3333333333333333,negative
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:48:12,0.170995670995671,negative
+"RT @SwamiGeetika: Party already starts and Indians across the globe already celebrating the results of #ExitPolls :)
 
-We have done our job sincerely a…",0.3833333333333333
-RT @newslaundry: Our TV news channels are about to go insane with #ExitPoll2019. We are watching all the action so that you don't have to.…,-0.45
-"RT @PreetiSMenon: Just say Modi is getting 545 seats and be done with it! Or maybe sing a Modi Chalisa to add a nice dutiful touch. 
-#ExitP…",0.6
-"RT @SirJadeja: The most trusted and accurate Today's Chanakya's #ExitPoll2019 predicts approx 300 seats for BJP, 350 for NDA, 55 for Congre…",0.45000000000000007
-"RT @mayurkhadse: India Needs One More Person Like Godse To Stop This Criminal Ruling Party ..
+Aayega To Modi Hi! @n…",2019-05-20 12:48:18,0.625,positive
+"RT @DaaruBaazMehta: MUST WATCH
 
-#ExitPoll2019 #ExitPolls #Godse",0.04999999999999999
-RT @prasannavishy: Profound insight from BPL version of Kemalgassan 😀😀😀 https://t.co/0kc4zxT17F,0.08333333333333333
-"@BoxingEGO Even using this clips to make memes on Indian election. People are loving it
-https://t.co/dab88GOVUo",0.6
-"Axis:
+AAP Senior Leader @SanjayAzadSln Speaks on #ExitPolls numbers
 
- BJP in Telangana vote share 21%
+Exit Polls have always got it wrong
 
- Of 1-3 seats  projected in Telangana
+These e…",2019-05-20 12:48:20,-0.5,negative
+"RT @SirAiyar: The reason behind the Modi favored 
+#ExitPolls
 
-Adilabad - Tough fight between Cong… https://t.co/PW63Y8IbXm",-0.3888888888888889
-"Thanks @RahulGandhi to be a #StarCampaigner for @BJP4India .. You did it, very nice 👌 #ExitPolls https://t.co/qlnjBFjNu7",0.49
-"RT @JhaSanjay: #NDA winning 40 out of 40 in Bihar? Seriously? Now it is becoming far too farcical. 
+Is that Rs 5000 Cr invested in Satta Market should be manipulated in favor of…",2019-05-20 12:48:21,0.2,negative
+"RT @SirAiyar: The reason behind the Modi favored 
+#ExitPolls
 
-#ExitPolls",0.06333333333333332
+Is that Rs 5000 Cr invested in Satta Market should be manipulated in favor of…",2019-05-20 12:48:26,0.2,negative
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:48:37,0.170995670995671,negative
+RT @_sufiyana_: I know you will read my name and pounce on me for raising the question but what if #ExitPolls are an elaborate fraud to mit…,2019-05-20 12:49:03,0.5,neutral
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:49:28,0.170995670995671,negative
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:49:30,0.170995670995671,negative
+"Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is g… https://t.co/z9EHm4jpvB",2019-05-20 12:49:33,-0.1,negative
+I don't believe in #Exitpolls but looking at way opposition is blaming EC and #EVM I am sure #AyegaToModiHi...,2019-05-20 12:49:34,0.5,neutral
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:49:36,0.170995670995671,negative
+"RT @ndtv: Andhra Pradesh Chief Minister and TDP chief N Chandrababu Naidu: ""I am 1000 % confident that TDP will win the elections, don't ha…",2019-05-20 12:49:45,0.65,positive
+"@churumuri @PMOIndia @abpnewstv @abhisar_sharma So what I said yesterday in jest is indeed true!
+
+https://t.co/GT21HVyvxl",2019-05-20 12:49:49,0.4375,negative
+"RT @SirJadeja: 19th May: Exit Polls are fake
+23rd May: EVMs are hacked
+24th May:Fascist Mudi must rejine 😭
+
+#ExitPoll2019 #ExitPolls",2019-05-20 12:50:02,-0.5,negative
+"RT @moneycontrolcom: Most #exitpolls predict @BJP4Bengal will make significant inroads in West Bengal in #LokSabhaElections2019, if not out…",2019-05-20 12:50:05,0.4375,negative
+"RT @CholericCleric: @JhaSanjay Compared to you, your dog is an Einstein, of that I am very sure.
+https://t.co/O1HZLgBJYy",2019-05-20 12:50:15,0.65,positive
+"RT @moneycontrolcom: Most #exitpolls predict @BJP4Bengal will make significant inroads in West Bengal in #LokSabhaElections2019, if not out…",2019-05-20 12:50:19,0.4375,negative
+If the #ExitPolls figures are not true then my dog is Sanjay Jha,2019-05-20 12:50:21,-0.175,negative
+"RT @MyFellowIndians: Paid #ExitPolls have been aired.
+CEC in Pocket.
+Verification of VVPATs cancelled. 
+Now replace the #EVMs with the 190,…",2019-05-20 12:50:23,0.1,negative
+"RT @kamaalrkhan: Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is going to…",2019-05-20 12:50:33,-0.1,negative
+"RT @kamaalrkhan: Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is going to…",2019-05-20 12:51:00,-0.1,negative
+"RT @kamaalrkhan: Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is going to…",2019-05-20 12:51:07,-0.1,negative
+"RT @kamaalrkhan: Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is going to…",2019-05-20 12:51:07,-0.1,negative
+"RT @kamaalrkhan: Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is going to…",2019-05-20 12:51:41,-0.1,negative
+"RT @moneycontrolcom: Most #exitpolls predict @BJP4Bengal will make significant inroads in West Bengal in #LokSabhaElections2019, if not out…",2019-05-20 12:51:46,0.4375,negative
+I love these new age content creator who extract humour out of everything #ExitPolls #amazing #Results2019 #BJP… https://t.co/jpajoR87Vy,2019-05-20 12:51:57,0.4121212121212121,negative
+"RT @kamaalrkhan: Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is going to…",2019-05-20 12:51:58,-0.1,negative
+"RT @rahul_tverma: Lesson from Australia #ExitPolls 
+
+1. Exit Polls can wrong in CLOSE contest, less likely in LANDSLIDES
+2. Australia has a…",2019-05-20 12:52:00,-0.2222222222222222,negative
+RT @BhavikaKapoor5: Even if 0.1% truth is there in yesterday's #ExitPolls  then I am afraid we have transformed into a country similar to 1…,2019-05-20 12:52:01,-0.3,negative
+"RT @DaaruBaazMehta: MUST WATCH
+
+AAP @raghav_chadha SLAMS #ExitPolls 
+
+AAP Lok Sabha candidate, Raghav is confident of Winning the South Del…",2019-05-20 12:52:09,0.5,neutral
+"RT @rahul_tverma: I'm not sure why everyone is using Australia #ExitPolls example. 
+
+The country has 151 member house. Conservatives were r…",2019-05-20 12:52:18,-0.25,negative
+"RT @SirAiyar: The reason behind the Modi favored 
+#ExitPolls
+
+Is that Rs 5000 Cr invested in Satta Market should be manipulated in favor of…",2019-05-20 12:52:22,0.2,negative
+RT @desimojito: If the #ExitPolls figures are not true then my dog is Sanjay Jha https://t.co/9ybrOQ5VWP,2019-05-20 12:52:27,-0.175,negative
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:52:28,0.170995670995671,negative
+"RT @i_theindian: Yesterday's highly exaggerated #ExitPolls pushed up the BSE Sensex by 1,400 points resulting in a whopping:
+
+📌Rs 40,000 cr…",2019-05-20 12:52:30,-0.5,negative
+"According to Janta TV BJP will 22 seats in Haryana alone !
+FYI- Haryana have only 10 loksabha seats !
+#ExitPolls 
+R… https://t.co/AbsTJeQRHG",2019-05-20 12:52:34,0.0,negative
+"RT @SirAiyar: The reason behind the Modi favored 
+#ExitPolls
+
+Is that Rs 5000 Cr invested in Satta Market should be manipulated in favor of…",2019-05-20 12:52:39,0.2,negative
+"RT @kamaalrkhan: Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is going to…",2019-05-20 12:52:56,-0.1,negative
+RT @desimojito: If the #ExitPolls figures are not true then my dog is Sanjay Jha https://t.co/9ybrOQ5VWP,2019-05-20 12:53:02,-0.175,negative
+RT @BhavikaKapoor5: Even if 0.1% truth is there in yesterday's #ExitPolls  then I am afraid we have transformed into a country similar to 1…,2019-05-20 12:53:16,-0.3,negative
+RT @desimojito: If the #ExitPolls figures are not true then my dog is Sanjay Jha https://t.co/9ybrOQ5VWP,2019-05-20 12:53:22,-0.175,negative
+This is Hilarious,2019-05-20 12:53:25,0.5,neutral
+RT @desimojito: If the #ExitPolls figures are not true then my dog is Sanjay Jha https://t.co/9ybrOQ5VWP,2019-05-20 12:53:39,-0.175,negative
+RT @desimojito: If the #ExitPolls figures are not true then my dog is Sanjay Jha https://t.co/9ybrOQ5VWP,2019-05-20 12:53:50,-0.175,negative
+"RT @kamaalrkhan: Vivek oberoi is an insider of #BJP So if we read his meme About Aishwarya carefully, so he is saying that #BJP is going to…",2019-05-20 12:54:07,-0.1,negative
+"RT @DaaruBaazMehta: MUST WATCH
+
+AAP @raghav_chadha SLAMS #ExitPolls 
+
+AAP Lok Sabha candidate, Raghav is confident of Winning the South Del…",2019-05-20 12:54:14,0.5,neutral
+RT @desimojito: If the #ExitPolls figures are not true then my dog is Sanjay Jha https://t.co/9ybrOQ5VWP,2019-05-20 12:54:21,-0.175,negative
+"RT @ShefVaidya: If #ExitPolls are right, 5 key takeaways
+1. This is a POSITIVE vote 4 Modi, not a #TINA vote.
+2. Priyanka drew crowds, not…",2019-05-20 12:54:21,0.170995670995671,negative
+"RT @rahul_tverma: Lesson from Australia #ExitPolls 
+
+1. Exit Polls can wrong in CLOSE contest, less likely in LANDSLIDES
+2. Australia has a…",2019-05-20 12:54:23,-0.2222222222222222,negative
+"#dkoding #ExitPolls
+Exit polls are right or wrong - let's not go by the biased media houses for the exactness of #exitpoll2019
+Vote👇",2019-05-20 12:54:24,-0.10714285714285715,negative
+RT @JhaSanjay: If the #ExitPolls figures are true then my dog is a nuclear scientist.,2019-05-20 12:54:24,0.35,negative
+"@imanojprabakar The reason behind the Modi favored 
+#ExitPolls
+
+Is that Rs 5000 Cr invested in Satta Market should… https://t.co/ZwYSaWaqjr",2019-05-20 12:55:08,0.2,negative
+"RT @avinav_gahlot1: #RT if you agree.👇👇👇
+
+""Mani Shankar Aiyar is lucky charm for #BJP .""
+😭😭😂😂
+
+#ExitPoll2019
+#JeetegaToModiHi #ApnaModiAaye…",2019-05-20 12:55:12,0.3333333333333333,negative
+If exit polls are true then you are Pig,2019-05-20 12:55:13,0.35,negative
+RT @desimojito: If the #ExitPolls figures are not true then my dog is Sanjay Jha https://t.co/9ybrOQ5VWP,2019-05-20 12:55:14,-0.175,negative
+"@JhaSanjay If Jha's #ExitPolls figures are true then my dog is a nuclear scientist.
+
+https://t.co/ktv5EGJMu8",2019-05-20 12:55:23,0.35,negative
+RT @desimojito: If the #ExitPolls figures are not true then my dog is Sanjay Jha https://t.co/9ybrOQ5VWP,2019-05-20 12:55:25,-0.175,negative
