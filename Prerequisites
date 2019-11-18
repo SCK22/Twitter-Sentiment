@@ -1,3 +1,11 @@
 1. Python 2.7 or higher
-2. All the mentioned packages in INSTALL 
-3. Twitter API authentication Keys, generated from twitter API.
+2. Install packages ()run pip install -r requirements.txt
+3. Twitter API authentication Keys, generated from twitter API and put them in a access_tokens.json file in the following format.
+```
+{
+    "api_key" : "XXXXXX",
+    "api_secret" : "XXXXXX,
+    "access_token" : "XXXXXX,
+    "access_token_secret" : "XXXXXX"
+} 
+```

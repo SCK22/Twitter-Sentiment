@@ -1,7 +1,0 @@
-#Install the dependencies
-#json
-pip install json
-#textblob
-pip install textblob
-#twitter
-pip install twitter
