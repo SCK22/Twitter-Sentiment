@@ -16,7 +16,7 @@ Analyzing the sentiment of tweets for a particular key word. This analysis is ba
 run python main.py <KEYWORD> <NUM_TWEETS>
 example :
 ```
-python main.py audi 1000
+python main.py #F1 1000
 ```
 
 ![Sample image](img/newplot.png)
