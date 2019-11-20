@@ -18,3 +18,5 @@ example :
 ```
 python main.py audi 1000
 ```
+
+![Sample image](/img/newplot.png)
