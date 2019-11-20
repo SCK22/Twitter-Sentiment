@@ -13,9 +13,9 @@
 ```
 Analyzing the sentiment of tweets for a particular key word. This analysis is based on the tweet text only.
 
-run python main.py <KEYWORD> <NUM_TWEETS>
-example :
+how to run (example):
 ```
+python main.py <WORD> <NUM_TWEETS>
 python main.py #F1 1000
 ```
 

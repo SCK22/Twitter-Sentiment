@@ -9,3 +9,5 @@ access_tokens*
 __pycache__/
 
 .vscode/*
+
+data/*
