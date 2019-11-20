@@ -1,7 +1,8 @@
 # Twitter-Sentiment-Analysis
 1. Python 2.7 or higher
-2. Install packages ()run pip install -r requirements.txt
-3. Twitter API authentication Keys, generated from twitter API and put them in a access_tokens.json file in the following format.
+2. clone the repo https://github.com/SCK22/Twitter-Sentiment (use the master branch)
+3. Install packages run pip install -r requirements.txt
+4. Twitter API authentication Keys, generated from twitter API and put them in a access_tokens.json file in the following format.
 ```
 {
     "api_key" : "XXXXXX",
